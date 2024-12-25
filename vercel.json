@@ -1,0 +1,7 @@
+{
+    "redirects": [
+      { "source": "/", "destination": "/nodes/index.html", "permanent": true },
+      { "source": "/nodes", "destination": "/nodes/index.html", "permanent": true },
+      { "source": "/stake", "destination": "/stake/index.html", "permanent": true }
+    ]
+}
